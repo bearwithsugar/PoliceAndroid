@@ -1,0 +1,17 @@
+<resources>
+    <dimen name="title">40sp</dimen>
+    <dimen name="return_btn">80dp</dimen>
+    <dimen name="btn_height">80dp</dimen>
+
+    <dimen name="login_login">30sp</dimen>
+    <dimen name="login_exit">30sp</dimen>
+    <dimen name="login_changetofinger">20sp</dimen>
+    <dimen name="login_company">20sp</dimen>
+
+    <dimen name="main_title">40sp</dimen>
+    <dimen name="main_cicle">30dp</dimen>
+    <dimen name="main_tip">30sp</dimen>
+
+    <dimen name="list_title">30sp</dimen>
+    <dimen name="list_message">20sp</dimen>
+</resources>
